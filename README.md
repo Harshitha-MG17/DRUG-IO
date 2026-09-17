@@ -1,5 +1,7 @@
 # DRUG.IO
-
+<p align="center">
+  <img src="Drug.io-main/FrontEnd/src/assets/ADMET-X.png" alt="DRUG.IO logo" width="360">
+</p>
 Project repository collected research and tooling for drug property prediction, drug-target interaction, and drug combination experiments. This workspace contains multiple related projects and example apps used for model training, inference, and small web demos.
 
 Contents
