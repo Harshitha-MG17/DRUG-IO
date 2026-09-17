@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+torch
+torch-geometric
+rdkit
+scikit-learn
+Pillow

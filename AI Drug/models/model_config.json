@@ -1,0 +1,1 @@
+{"drug_input_dim": 2056, "protein_input_dim": 3000, "hidden_dims": [1024, 512, 256], "dropout": 0.3}

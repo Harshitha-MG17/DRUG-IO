@@ -1,0 +1,17 @@
+Drug.io-main/FrontEnd/node_modules/
+AI Drug/chembl_36_rf_model.pkl
+AI Drug/models/best_model.pt
+
+# Local configuration and generated files
+.env
+*.env
+__pycache__/
+*.py[cod]
+*.log
+.venv/
+venv/
+
+# Local frontend and model artifacts
+node_modules/
+*.pt
+*.pkl
