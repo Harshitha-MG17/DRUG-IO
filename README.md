@@ -84,11 +84,4 @@ Running training and evaluation (general guidance)
 - Use the provided notebooks to reproduce preprocessing and training steps where available.
 - For custom experiments, adapt dataset paths in the training scripts and set the output directory under `Model_training/`.
 
-Repository maintenance and GitHub push
-- This repository can be pushed to a remote GitHub repository. Ensure you have a configured Git user and authentication (SSH key or credential helper).
 
-License & attribution
-- No license file is included. Add a `LICENSE` if you plan to open-source the code.
-
-Contact / Next steps
-- If you want, I can: commit this README update, add a `LICENSE`, and push the repository to `https://github.com/Harshitha-MG17/DRUG.IO.git`. Ask me to proceed and provide any preferred license.
